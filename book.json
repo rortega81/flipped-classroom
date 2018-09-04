@@ -1,4 +1,5 @@
 {
+    "gitbook": "2.3.0",
     "plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer"],
     "language": "es",
     "variables": {
