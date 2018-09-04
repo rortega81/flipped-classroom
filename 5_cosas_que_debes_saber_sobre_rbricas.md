@@ -14,7 +14,7 @@ Es una herramienta para ayudar a la evaluación que puede resultar especialmente
 
 Puede servir para valorar el grado de aprendizaje alcanzado por el alumno en conocimientos y competencias, y también para poder juzgar de un modo más ecuánime el proceso que supone todo aprendizaje, el nivel de logro del mismo y/o la calidad del trabajo llevado a cabo por los alumnos. Elementos básicos de una rúbrica.
 
- _Aspectos a evaluar:_ componentes que incluyen el marco de la evaluación del producto/desempeño del estudiante.
+Aspectos a evaluar:_ componentes que incluyen el marco de la evaluación del producto/desempeño del estudiante.
 
 _Escala de calificación:_ categorías que definen la calidad del trabajo del estudiante.
 
@@ -36,7 +36,7 @@ El profesor puede utilizarla como una herramienta de evaluación pero también p
 
 Fuente de la imagen: [Blog The Flipped Classroom](http://www.theflippedclassroom.es/8-cosas-que-debes-saber-sobre-rubricas-18/)
 
-### _Tipos de rúbrica_  
+### _Tipos de rúbrica_
 
 *   _Comprehensiva, holística o global_: la que considera la ejecución del alumno como una totalidad sin juzgar por separado las partes que la componen. Permite calificar la totalidad del trabajo.
 *   _Analítica:_ mediante ella se evalúa por separado las diferentes partes o componentes del producto o desempeño, de modo que la retroalimentación que puede proporcionarse al alumno es más compleja, amplia y definitiva.

@@ -3,19 +3,20 @@
 * [Introducción](README.md)
 
 ____
-### EA_FlippedMarzo18: Modelo Flipped Clasroom, historia y fundamentos
-* [1.	El modelo Flipped Classroom, historia y fundamentos](index.md)
-	* [“Historia” del modelo flipped classroom: infográfico y video](historia_del_modelo_flipped_classroom_infogrfico_y_video.md)
-		* [El FC en un video](el_fc_en_un_video.md)
-		* [El FC en una infográfia](el_fc_en_una_infogrfia.md)
-		* [¿Qué es el modelo Flipped?](qu_es_el_modelo_flipped.md)
-	* [2.	Qué es y qué no es el modelo flipped classroom](2qu_es_y_qu_no_es_el_modelo_flipped_classroom.md)
-		* [Los cuatro Pilares del Flipped Classroom](los_cuatro_pilares_del_flipped_classroom.md)
-		* [Un poquito sobre Blended Learning](un_poquito_sobre_blended_learning.md)
-	* [3. Los roles profesor/alumno en FC](3_los_roles_profesoralumno_en_fc.md)
-	* [4. Confianza y seguridad del profesor](4_confianza_y_seguridad_del_profesor.md)
-	* [5. El dominio de la tecnología](5_el_dominio_de_la_tecnologa.md)
-### EA_FlippedMarzo18: La eficacia del modelo FC 
+### 1. Modelo Flipped Clasroom, historia y fundamentos
+* [1.	El modelo Flipped Classroom, historia y fundamentos](index01.md)
+	* [El FC en un video](el_fc_en_un_video.md)
+	* [El FC en una infográfia](el_fc_en_una_infogrfia.md)
+	* [¿Qué es el modelo Flipped?](qu_es_el_modelo_flipped.md)
+* [2.	Qué es y qué no es el modelo flipped classroom](2qu_es_y_qu_no_es_el_modelo_flipped_classroom.md)
+	* [Los cuatro Pilares del Flipped Classroom](los_cuatro_pilares_del_flipped_classroom.md)
+	* [Un poquito sobre Blended Learning](un_poquito_sobre_blended_learning.md)
+* [3. Los roles profesor/alumno en FC](3_los_roles_profesoralumno_en_fc.md)
+* [4. Confianza y seguridad del profesor](4_confianza_y_seguridad_del_profesor.md)
+* [5. El dominio de la tecnología](5_el_dominio_de_la_tecnologa.md)
+
+
+### 2. La eficacia del modelo FC 
 * [La eficacia del modelo Flipped Clasroom](index0.md)
 	* [Sobre la eficacia del modelo](sobre_la_eficacia_del_modelo.md)
 		* [Estudio de Kelly Walsh](estudio_de_kelly_walsh.md)

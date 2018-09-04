@@ -2,9 +2,7 @@
 
 Este vídeo nos puede ayudar a entender el modelo Flipped Classroom:
 
-  
-
-           Vídeo Youtube - [Modelo Flipped Classroom (00:58)](https://www.youtube.com/watch?v=OYJ-PQ7b_0w)
+{% youtube %}https://www.youtube.com/watch?v=OYJ-PQ7b_0w{% endyoutube %}
 
 El Flipped Classroom (FC) es un modelo pedagógico que **transfiere** el trabajo de **determinados procesos de aprendizaje fuera del aula** y utiliza e**l tiempo de clase**, junto con la experiencia del docente, **para facilitar y potenciar otros procesos de adquisición y práctica de conocimientos dentro del aula.**
 
