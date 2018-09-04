@@ -1,5 +1,5 @@
 {
-    "plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer", "quiz"],
+    "plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer"],
     "language": "es",
     "variables": {
         "title": "Dale la vuelta a tu clase (Flipped Classroom)",
@@ -15,22 +15,6 @@
         "localized-footer": {
             "hline": true,
             "filename": "./FOOTER.md"
-        },
-        "quiz": {
-            "labels": {
-                "check": "Comprobar",
-                "showExplanation": "Retroalimentación",
-                "showCorrect": "Mostrar la respuesta correcta",
-                "explanationHeader": "Explicación"
-            },
-            "text": {
-                "noChosen": "Elige al menos una respuesta",
-                "incomplete": "Faltan algunas respuestas correctas"
-            },
-            "buttons": {
-                "showCorrect": true,
-                "showExplanation": true
-            }
         }
     }
 }
