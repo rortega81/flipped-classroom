@@ -2,8 +2,8 @@
     "plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer", "quiz"],
     "language": "es",
     "variables": {
-        "title": "______________",
-        "author": "______________",
+        "title": "Dale la vuelta a tu clase (Flipped Classroom)",
+        "author": "Raúl Santiago y Javier Tourón",
         "collaborators": [
             { "name": "_________", "edited": "_____________" }
         ]
