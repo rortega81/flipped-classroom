@@ -1,0 +1,17 @@
+# Estudio de Bryan Goodwin y Kirsten Miller
+
+Según Bryan Goodwin y Kirsten Miller la evidencia sobre el modelo flipped classroom aun está por llegar.
+
+Las “clases magistrales” no tienen que ser necesariamente “malas” (si son realmente magistrales), y pueden ser una forma efectiva para ayudar a los estudiantes a adquirir nuevos conocimientos (Hattie , 2008 ; Schwerdt y Wupperman, 2010). El problema con este tipo de clases es, a menudo, una cuestión de ritmo. Para algunos estudiantes, la información puede llegar demasiado lentamente o tratar temas que ya saben, otros estudiantes pueden tener problemas para asimilar la información rápidamente, o pueden carecer de los conocimientos previos que necesitan para comprender los conceptos presentados. Después de una clase de este tipo, tanto exitosa (o no), a menudo los maestros asignan tareas o deberes, que a bastantes estudiantes les suele producir frustración y confusión. ¿Qué dijo mi profesor sobre la multiplicación ? ¿Cómo se utiliza la _coma_ en oraciones compuestas?, etc.
+
+Algunos profesores ya aplican este modelo simplemente por sentido común, diseñando clases y actividades bajo el FC grabando sus videos y publicándolos en internet. Los estudiantes ven las clases en casa, donde pueden acelerar a través de contenidos que ya entienden o se detienen para repetir las partes que no han comprendido bien y pueden trabajar los contenidos que se perdieron la primera vez que el maestro lo explicó. Este tipo de materiales pueden incorporar fácilmente representaciones visuales, como gráficos interactivos, videos o imágenes representativas.
+
+#### Cada vez mas práctica, pero es necesaria más investigación
+
+El FC parece estar calando. De acuerdo con el Flipped Learning Network (2012), la participación en su sitio de aumentó de 2.500 profesores en 2011 a 9.000 profesores en 2012. Pero, ¿la investigación muestra que el FC en realidad mejora el aprendizaje?
+
+Hasta la fecha, no hay una gran base de investigación científica que indique exactamente la eficacia de las aulas que siguen el modelo FC. Sin embargo, algunos datos no científicos preliminares sugieren que la aplicación del modelo puede producir beneficios. En una encuesta entre 453 maestros que aplicaron el FC, el 67% informó de un aumento de las puntuaciones en las pruebas, con beneficios particulares para los estudiantes en las clases y los estudiantes con necesidades educativas especiales, el 80% informó de la mejora de las actitudes de los estudiantes y 99% dijo que volvería a utilizar el modelo el año siguiente (Red de Aprendizaje Flipped, 2012). Siguiendo la [entrada](http://www.theflippedclassroom.es/cambiando-la-educacion-de-arriba-a-abajo-un-articulo-sobre-flipped-school-en-el-nyt/), la Escuela Secundaria Clintondale en Michigan comprobó como la tasa de fracaso de los estudiantes de matemáticas de grado noveno bajaba del 44 al 13 % después de la adopción de la metodología inversa (Finkel, 2012).
+
+*   Finkel, E. (2012, November). Flipping the script in K12. _District Administration_.[www.districtadministration.com/article/flipping-script-k12](http://www.districtadministration.com/article/flipping-script-k12)
+*   Hattie, J. (2008) _Visible learning: A synthesis of over 800 meta-analyses relating to achievement_. New York: Routledge.
+*   Flipped Learning Network. (2012). Improve student learning and teacher satisfaction with one flip of the classroom.

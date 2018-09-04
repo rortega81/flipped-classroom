@@ -1,0 +1,19 @@
+# Ejemplos de rúbricas
+
+Como sabemos, el desarrollo del modelo Flipped Classroom se mejora con el uso intencionado de la Tecnología. [El proceso SAMR ](http://www.theflippedclassroom.es/tag/samr/)de [Rubén D. Puentedura](http://www.hippasus.com/rrpweblog/) se justifica por la necesidad de mejorar la calidad de la enseñanza y garantizar un sistema de promoción social que garantice la equidad. Hoy os presentamos una rúbrica para que los profesores reflexionemos sobre las actividades mediadas por TIC ¿estamos haciendo “lo mismo” con TIC o estamos realmente transformando el aprendizaje?. Esta rúbrica sigue el esquema Sustitución-Mejora-Modificación-Redefinición profundizando en cuestiones y criterios clave como el aprendizaje colaborativo, la autonomía del estudiante, la evaluación, el uso de la tecnología y la diferenciación.
+
+[puentedura rubric.pdf](http://www.scribd.com/doc/215661100 "View puentedura rubric.pdf on Scribd")
+
+[Rúbrica para el diseño de tareas. Diseño de Fernando Trujillo](https://www.scribd.com/doc/47688739/Rubrica-para-el-diseno-de-tareas)
+
+[Rúbrica para el diseño de tareas](https://es.scribd.com/doc/47688739/Rubrica-para-el-diseno-de-tareas#from_embed) [Fernando Trujillo](https://www.scribd.com/user/32012931/Fernando-Trujillo)
+
+En Internet puedes encontrar multitud de rúbricas específicas para distintos tipos de actividades didácticas, que podrías utilizar directamente o tras una modificación. Aquí te proponemos sólo algunos ejemplos:
+
+*   [Evaluación y rúbricas](http://ceipprincipefelipe.net/aulavirtual/course/view.php?id=11), Plataforma Virtual del CEIP Príncipe Felipe de Motril para cursos, programas, proyectos y desarrollos curriculares.
+*   [Canal en Slideshare de CEDEC](http://www.slideshare.net/cedecite/documents), En el canal de SlideShare del [CeDeC ](http://cedec.ite.educacion.es/es/conocenos)(Centro Nacional de Desarrollo Curricular en Sistemas no Propietarios) hay una estupenda colección de rúbricas de evaluación listas para usar en el aula. Permiten evaluar, no sólo contenidos, si no también competencias. Por ejemplo, hay rúbricas para evaluar una investigación, una maqueta, un mapa conceptual, un trabajo grupal, un trabajo de laboratorio, una exposición oral... y un largo etcétera más.
+*   [Rúbricas en Eduteka](http://www.eduteka.org/tag/inicio/rubricas/1)
+*   [Un ejemplo de rúbrica para infantil](http://es.slideshare.net/Crisreque/rubrica-31707108), de Cristina Requena
+*   [Rúbricas de evaluación](http://olmedarein7.wix.com/proyectotic#!get_involved/c8k2) (para el blog de aula, para un mural colaborativo... etc) del proyecto infanTIC/TAC
+*   [Rúbrica en infantil](http://cfpfp.blogspot.com.es/2014/02/rubrica-en-infantil.html) para el proyecto Abecedario
+*   Con la herramienta online [RubiStar ](http://rubistar.4teachers.org/)los usuarios registrados pueden guardar y editar sus rúbricas en línea, además de ver las creadas por otros.
