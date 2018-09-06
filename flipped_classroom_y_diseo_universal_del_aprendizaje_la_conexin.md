@@ -87,8 +87,3 @@ También tendrán en cuenta las siguientes pautas de “Proporcionar múltiples 
 *   Los “Múltiples medios de representación” también se ven reforzados durante esta fase de demostración y aplicación; mientras se les pida a los estudiantes que incorporen oportunidades explícitas de revisión y práctica.
 *   Tomarán las oportunidades a través del tiempo para revisar los puntos clave y los vínculos entre las ideas.
 
-Guardar
-
-Guardar
-
-Guardar

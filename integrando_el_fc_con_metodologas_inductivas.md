@@ -4,4 +4,4 @@ La atención a la diversidad ya no puede seguir constituyendo un problema. La at
 
 La tecnología es la herramienta que nos está permitiendo dar cumplimiento a algunos principios de una escuela con el alumno como centro y el aprendizaje como razón de ser. Por ello, el aprendizaje al ritmo propio, la individualización, la personalización se constituyen en el deber ser de toda institución educativa. La llamada _flipped classroom_, participa de principios como el **_Diseño Universal de Aprendizaje,_** en este breve vídeo podemos comprender este enfoque. Indispensable para entender el camino por el que tiene que discurrir el proceso para hacer de las escuelas Centros de Desarrollo del Talento, de todos los alumnos en su diversidad.
 
-            [Vídeo Youtube - Universal Design for Thinking (04:38)](https://www.youtube.com/watch?v=wWSWgto9SEk) [Raul Santiago Campion](https://www.youtube.com/channel/UCLLQZbdzkyZmLHJ6Di9inUw)
+{% youtube %}https://youtu.be/wWSWgto9SEk{% endyoutube %}

@@ -14,4 +14,4 @@ Como no todo en esta vida es fácil, es necesario anticiparse a los problemas qu
 
 5- Planifica tareas para el tiempo de clase, esto es la clave, nunca te quedes sin actividades en la recámara, sobre todo sabiendo que se trata de ir a desarrollar el máximo potencial de tus alumnos. Aquí, te remito al post que trata de [tarea para los profesores.](http://www.theflippedclassroom.es/f-l-i-p-tarea-de-verano-para-los-profesores/) Recuerda que grabar o buscar el vídeo no es el punto fuerte de la clase inversa, lo realmente importante es lo que viene después.
 
-[Vídeo Youtube- 5 Things I wish I Knew When I Flipped My Class (04:27)](https://www.youtube.com/watch?v=4JPdGlyt6gg) [GoEd Online's channel](https://www.youtube.com/channel/UCHT8T9Hh6aRgGK5rs9kN2zQ)
+{% youtube %}https://www.youtube.com/watch?v=4JPdGlyt6gg{% endyoutube %}

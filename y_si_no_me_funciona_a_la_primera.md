@@ -22,7 +22,7 @@ Esta variante funciona así: Al igual que con el FC, el maestro graba previament
 
 Este vídeo te muestra cómo hacerlo:
 
-[The In-Class Flip (05:28)](https://www.youtube.com/watch?t=1&v=hhq3Yn_QgIA) [Cult of Pedagogy](https://www.youtube.com/channel/UCxEKnVOYnzM70yH7kDrU7bQ) 
+{% youtube %}https://youtu.be/hhq3Yn_QgIA{% endyoutube %}
 
 **Ventajas**
 

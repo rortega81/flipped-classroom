@@ -4,7 +4,7 @@
 
 El **aprendizaje basado en el Reto (CBL en inglés Content Based Learning)** es una iniciativa introducida por Apple originalmente para su uso en la educación K-12, pero ahora se utiliza en la educación superior también. Se trata de un modelo estructurado del curso que tiene una base en las estrategias metodológicas inductivas. En vez de presentar a los estudiantes un problema para resolver, el CBL ofrece conceptos generales de los que los estudiantes obtienen los retos que tendrán que abordar. Además, el CBL fomenta el uso de las tecnologías web y móviles, tales como herramientas y wikis colaborativos, que están disponibles para los estudiantes, pero que no se utilizan a menudo en los cursos. Este modelo es, con frecuencia, interdisciplinar en su enfoque, y alienta proyectos que involucran a la comunidad en general. La combinación de lo que permite a los estudiantes elegir su desafío y la vinculación de estos desafíos a la interacción de la comunidad aumenta la inversión de los estudiantes en un resultado productivo.
 
-[Vídeo Youtube - Diagrama Based Learning (02: 27)](https://www.youtube.com/watch?v=QMPxMkWLWHA) [Raul Santiago Campion](https://www.youtube.com/channel/UCLLQZbdzkyZmLHJ6Di9inUw)
+{% youtube %}https://youtu.be/QMPxMkWLWHA{% endyoutube %}
 
 _En este vídeo se presenta un caso concreto en entorno Apple. Si nuestro entorno es Windows o Linux, solo tendremos que buscar las herramientas alternativas_
 
@@ -38,6 +38,3 @@ Uno de los elementos clave de CBL es su uso de la tecnología para implementar s
 
 Constituye una aproximación multidisciplinar muy atractiva cara al alumno y su aprendizaje. Motiva a que los estudiantes aprovechen la tecnología que utilizan en su vida diaria para resolver problemas del mundo real. Su esencia es colaborativa y exige que los estudiantes trabajen con otros estudiantes, sus profesores y expertos en sus comunidades de todo el mundo para desarrollar un conocimiento más profundo de los temas que estén estudiando. Asumir y resolver los retos, actuar, compartir su experiencia, es parte importante de su esencia didáctica y todo ello aprovechando las posibilidades ubicuas de las tecnologías en un entorno FC.
 
-Guardar
-
-Guardar

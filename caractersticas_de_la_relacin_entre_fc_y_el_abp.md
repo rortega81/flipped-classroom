@@ -24,4 +24,3 @@ Hay que dejar claro cual es el _output_ esperado. ¿Los estudiantes deberán A
 
 En definitiva, el ABP (problemas o proyectos) tiene una conexión lógica con el FC debido a que es necesario “rodearse” de técnicas, métodos y contextos que propicien que el alumno se convierta en el centro del aprendizaje y no en un mero espectador.
 
-Guardar
