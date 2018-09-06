@@ -1,6 +1,6 @@
 {
     "gitbook": "3.2.2",
-    "plugins": ["youtube"],
+    "plugins": ["youtube", "image-captions", "styled-blockquotes", "localized-footer"],
     "language": "es",
     "variables": {
         "title": "Dale la vuelta a tu clase (Flipped Classroom)",
@@ -8,5 +8,14 @@
         "collaborators": [
             { "name": "_________", "edited": "_____________" }
         ]
+    },
+    "pluginsConfig": {
+        "image-captions": {
+            "caption": "Imagen - _CAPTION_"
+        },
+        "localized-footer": {
+            "hline": true,
+            "filename": "./FOOTER.md"
+        }
     }
 }
