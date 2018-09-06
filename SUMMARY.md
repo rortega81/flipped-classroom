@@ -25,7 +25,8 @@ ____
 	* [Anticiparse a los problemas](anticiparse_a_los_problemas.md)
 		* [Los problemas que te puedes encontrar](los_problemas_que_te_puedes_encontrar.md)
 		* [¿Y si no me funciona a la "primera"?](y_si_no_me_funciona_a_la_primera.md)
-### EA_FlippedMarzo18: El modelo FC y su relación con metolodogías didácticas innovadoras 
+  
+### 3. El modelo FC y su relación con metolodogías didácticas innovadoras 
 * [El modelo flipped classroom y su relación con metodologías  didácticas innovadoras](index1.md)
 	* [Integrando el FC con metodologías inductivas](integrando_el_fc_con_metodologas_inductivas.md)
 		* [Flipped Classroom y Diseño Universal del Aprendizaje: La conexión](flipped_classroom_y_diseo_universal_del_aprendizaje_la_conexin.md)
@@ -40,7 +41,8 @@ ____
 		* [6 razones por las que el PBL es aplicable al FC](6_razones_por_las_que_el_pbl_es_aplicable_al_fc.md)
 		* [Aprendizaje Basado en Proyectos, utilizando herramientas Google](aprendizaje_basado_en_proyectos_utilizando_herramientas_google.md)
 		* [FC y Aprendizaje Basado en Retos (CBL)](fc_y_aprendizaje_basado_en_retos_cbl.md)
-### EA_FlippedMarzo18: Taxonomía de Bloom. Gamificación 
+
+### 4. Taxonomía de Bloom. Gamificación 
 * [Taxonomía de Bloom. Gamificación](index2.md)
 	* [FC y la taxonomía de Bloom: Un primer acercamiento](fc_y_la_taxonoma_de_bloom_un_primer_acercamiento.md)
 		* [Actividades acordes con la taxonomía de Bloom "Digital"](actividades_acordes_con_la_taxonoma_de_bloom_digital.md)
@@ -49,7 +51,8 @@ ____
 	* [¿Jugamos? La Gamificación](jugamos_la_gamificacin.md)
 		* [Infografías sobre Gamificación](infografas_sobre_gamificacin.md)
 		* [Utilización de Quizzes y Gamificación en el aula](utilizacin_de_quizzes_y_gamificacin_en_el_aula.md)
-### EA_FlippedMarzo18: Integración de las TIC en educación 
+
+### 5. Integración de las TIC en educación 
 * [Integración de las TIC en educación](index3.md)
 	* [Objetivos](objetivos.md)
 	* [Fases en la integración de las TIC](fases_en_la_integracin_de_las_tic.md)
@@ -57,7 +60,8 @@ ____
 	* [Artefactos digitales](artefactos_digitales.md)
 	* [Redes Sociales en educación](redes_sociales_en_educacin.md)
 	* [Autoevaluación TIC](autoevaluacin_tic.md)
-### EA_FlippedMarzo18: Herramientas y recursos: vídeos 
+
+### 6. Herramientas y recursos: vídeos 
 * [Herramientas y recursos: vídeos](index4.md)
 	* [Herramientas FC](herramientas_fc.md)
 	* [Vídeos flipped](vdeos_flipped.md)
@@ -69,7 +73,8 @@ ____
 		* [Cómo publicar vídeos](cmo_publicar_vdeos.md)
 	* [Vídeos con interacción](vdeos_con_interaccin.md)
 	* [La importancia de las licencias Creative Commons](la_importancia_de_las_licencias_creative_commons.md)
-### EA_FlippedMarzo18: Evaluación 
+
+### 7. Evaluación 
 * [Evaluación](index5.md)
 	* [La importancia de la evaluación](la_importancia_de_la_evaluacin.md)
 	* [¿Sabes distinguir distintos tipos de evaluación?](sabes_distinguir_distintos_tipos_de_evaluacin.md)
@@ -78,3 +83,4 @@ ____
 		* [Mas sobre los distintos enfoques de la evaluación](mas_sobre_los_distintos_enfoques_de_la_evaluacin.md)
 		* [5 cosas que debes saber sobre rúbricas](5_cosas_que_debes_saber_sobre_rbricas.md)
 		* [Ejemplos de rúbricas](ejemplos_de_rbricas.md)
+
