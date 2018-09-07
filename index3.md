@@ -16,4 +16,3 @@ De todos estos temas hablaremos a continuación.
 
 Fuente de la imagen: [Javierosh](https://www.flickr.com/photos/javierosh/ "Ir a la galería de Javierosh") [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
 
-Guardar

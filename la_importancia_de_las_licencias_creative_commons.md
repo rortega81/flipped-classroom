@@ -6,7 +6,7 @@ Cuando buscamos material, lo modificamos o lo empleamos, debemos tener en cuenta
 
 Dichos instrumentos jurídicos consisten en **un conjunto de “modelos de contratos de licenciamiento” o licencias de derechos de autor (**licencias Creative Commons o licencias “CC”) que **ofrecen al autor de una obra una forma simple y estandarizada de otorgar permiso al público en general de compartir y usar su trabajo creativo bajo los términos y condiciones de su elección.** En este sentido, las licencias Creative Commons permiten al autor cambiar fácilmente los términos y condiciones de derechos de autor de su obra de “todos los derechos reservados” a “algunos derechos reservados”.
 
-[Creative Commons CPJV](https://www.youtube.com/watch?v=OUo3KMkOETY)  [Consejo Provincial Juventud de Valladolid](https://www.youtube.com/channel/UC0TT_HYBTJ7Zcv0tBcdF98A)
+{% youtube %}https://youtu.be/OUo3KMkOETY{% endyoutube %}
 
 Las licencias Creative Commons no reemplazan a los derechos de autor, sino que se apoyan en estos para permitir modificar los términos y condiciones de la licencia de su obra de la forma que mejor satisfaga sus necesidades.
 

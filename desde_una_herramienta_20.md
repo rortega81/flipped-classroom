@@ -4,12 +4,6 @@ Se pueden crear vídeos flipped utilizando una herramienta 2.0 como [screencast-
 
 Te mostramos ahora tres ejemplos de videos Flipped de ediciones anteriores para que compruebes cómo queda el resultado final.
 
-Guardar
+{% youtube %}https://youtu.be/1SdurimpYLc{% endyoutube %}
 
-Guardar
-
-Guardar
-
-Guardar
-
-Guardar
+{% youtube %}https://youtu.be/FxoK2OtOZLo{% endyoutube %}

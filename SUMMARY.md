@@ -59,7 +59,6 @@ ____
 	* [Modelo SAMR](modelo_samr.md)
 	* [Artefactos digitales](artefactos_digitales.md)
 	* [Redes Sociales en educación](redes_sociales_en_educacin.md)
-	* [Autoevaluación TIC](autoevaluacin_tic.md)
 
 ### 6. Herramientas y recursos: vídeos 
 * [Herramientas y recursos: vídeos](index4.md)
@@ -84,3 +83,6 @@ ____
 		* [5 cosas que debes saber sobre rúbricas](5_cosas_que_debes_saber_sobre_rbricas.md)
 		* [Ejemplos de rúbricas](ejemplos_de_rbricas.md)
 
+___
+
+* [Créditos](crditos-buenos.md)

@@ -65,4 +65,5 @@ Para el profesor supone una ayuda encaminada a:
 
 En esta completa presentación de Rosa Liarte puedes ver la importancia de este mecanismo de evaluación: 
 
-**[Rubricas de evaluación en el aula y CoRubrics](//www.slideshare.net/rosaliarte/rubricas-de-evaluacin-en-el-aula-y-corubrics "Rubricas de evaluación en el aula y CoRubrics")** from **[Rosa Liarte Alcaine](//www.slideshare.net/rosaliarte)**
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/4MYByTKGY1fdyI" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/rosaliarte/rubricas-de-evaluacin-en-el-aula-y-corubrics" title="Rubricas de evaluación en el aula y CoRubrics" target="_blank">Rubricas de evaluación en el aula y CoRubrics</a> </strong> from <strong><a href="https://www.slideshare.net/rosaliarte" target="_blank">Rosa Liarte Alcaine</a></strong> </div>
+

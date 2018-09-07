@@ -44,6 +44,3 @@ A esta fase no llegan todos los profesores. Se utiliza la tecnología de una man
 
 Fuente: [Fases de la integración de la tecnología en Educación, blog del INTEF](http://blog.educalab.es/intef/2015/02/19/fases-en-la-integracion-de-la-tecnologia-en-educacion/) [José Luis Cabello](https://twitter.com/idocente "Abre en nueva ventana")
 
-Guardar
-
-Guardar

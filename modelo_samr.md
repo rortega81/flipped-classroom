@@ -48,6 +48,3 @@ Para saber más:
 *   Modelo [SAMR and BLOOM interactive Image on Thinglink](https://www.thinglink.com/scene/531154089749250048)
 *   SAMR tableros en [Pinterest](https://es.pinterest.com/taradcat/samr-model-for-technology-integration/)
 
-Guardar
-
-Guardar

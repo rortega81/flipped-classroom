@@ -6,7 +6,7 @@ Accede a este organizador gráfico en el que explicamos sucintamente el amplio p
 
 Además, recuerda que puedes encontrar en el Espacio de apoyo TIC, un amplio abanico de herramientas y recursos para invertir tu clase en función de las actividades y nivel de la Taxonomía que pretendas que alcancen tus alumnos.
 
-[Fuente: Blog The Flipped Classroom](http://www.theflippedclassroom.es/)
+<iframe src="https://www.theflippedclassroom.es/100-herramientas-para-invertir-tu-clase-para-empezar/" frameborder="0" width="100%" height="700" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 Si hemos acertado con nuestro planteamiento flipped "antes de la clase", el panorama habrá cambiado radicalmente, ya no podemos seguir haciendo en el aula lo que hacíamos antes. Los alumnos ya disponen de unos conocimientos previos que habrá que trabajar de una manera diferente. Veamos en el siguiente infográfico este planteamiento.
 
