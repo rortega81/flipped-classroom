@@ -1,6 +1,6 @@
 # Introducción
 
-![Banner Flipped Classroom Intef](img/Banner_Flipped_Classroom.png)
+![](img/Banner_Flipped_Classroom.png)
 
 El curso **"Dale la vuelta a tu clase (Flipped Classroom)”** contribuye al desarrollo y mejora de la Competencia digital docente en todas sus áreas (Información y alfabetización informacional, Comunicación y colaboración, Creación de contenidos digitales, Seguridad y Resolución de problemas). En este curso se incide especialmente en las Áreas 2, Comunicación y colaboración, 3, Creación de contenidos digitales y 5, Resolución de problemas  del “**Marco Común de Competencia Digital Docente**”.
 
