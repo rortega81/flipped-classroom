@@ -10,7 +10,19 @@ Fuente de la imagen: [Playposit](https://www.playposit.com/)
 
 [Playposit](https://www.playposit.com/) es una aplicación web multiplataforma que permite unir el visionado de un vídeo (de YouTube o Vimeo) a un cierto nivel de interacción por parte del alumno: en el transcurso del mismo, el docente propone preguntas que permitan comprobar que el alumno está asimilando los contenidos (el vídeo se detiene hasta que el alumno contesta). También, permite que el profesor programe que el vídeo se detenga y se despliegue información adicional (desde un simple texto plano a imágenes, otros vídeos complementarios, etc.).
 
-Su uso es ciertamente sencillo, y permite al profesor monitorizar la interacción del alumno con el vídeo. [Aquí](https://www.youtube.com/watch?v=8-8KsqixVxk) tienes un tutorial. Y [aquí](http://www.educanon.com/public/1409/3657) un ejemplo.
+Su uso es ciertamente sencillo, y permite al profesor monitorizar la interacción del alumno con el vídeo.
+
+![Gif creado por Juan José de Haro @jjdeharo](/assets/ezgif-3-8e181e5e06f7.gif)
+
+En estos videos puedes aprender a usarlo como profesor:
+
+
+{% youtube %}https://youtu.be/IiLVZNqF1rE {% endyoutube %}
+{% youtube %}https://youtu.be/tjZKYeUHr48 {% endyoutube %}
+{% youtube %}https://youtu.be/0A7cFek6V9o {% endyoutube %}
+
+
+[Aquí](https://www.youtube.com/watch?v=8-8KsqixVxk) tienes un tutorial que explica como lo vería un alumno. Y [aquí](http://www.educanon.com/public/1409/3657) un ejemplo.
 
 
 ![](img/edPuzzleLogo.jpg)
