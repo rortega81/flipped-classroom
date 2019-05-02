@@ -1,6 +1,6 @@
 # Vídeos con interacción
 
-Una vez que tenemos el video, podemos enriquecerlo introduciendo preguntas dentro del mismo. De esta manera el alumno mantendrá la atención a lo largo del visionado del mismo. Hay diferentes opciones, en los siguientes apartados te mostramos algunas de ellas. No olvides que por encima de la herramienta "tecnológica" está el diseño pedagógico: ¿Qué preguntas hago? ¿Cuántas elaboro en función de la duración del video? ¿Cómo las formulo? ¿Dónde las sitúo? ¿Qué retroalimentación ofrezco?
+Una vez que tenemos el video, podemos enriquecerlo introduciendo preguntas dentro del mismo. De esta manera el alumno mantendrá la atención a lo largo del visionado del mismo. Hay diferentes opciones, en los siguientes apartados te mostramos algunas de ellas. No olvides que por encima de la herramienta "tecnológica" está el diseño pedagógico: ¿Qué preguntas hago? ¿Cuántas elaboro en función de la duración del video? ¿Cómo las formulo? ¿Dónde las sitúo? ¿Qué retroalimentación ofrezco?.
 
 
 ![](img/2016-07-06_1751.png)
