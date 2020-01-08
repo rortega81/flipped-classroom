@@ -1,5 +1,4 @@
 {
-  "gitbook": "3.2.2",
   "plugins": [
     "youtube",
     "image-captions",
@@ -29,7 +28,7 @@
       "filename": "./FOOTER.md"
     },
     "edit-link": {
-      "base": "https://github.com/catedu/flipped-classroom/edit/master",
+      "base": "https://github.com/catedu/flipped-classroom/edit/master/",
       "label": "Edita esta página"
     },
     "githubcontributors": {
