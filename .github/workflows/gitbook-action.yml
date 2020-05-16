@@ -20,3 +20,4 @@ jobs:
         gitbook_epub_name: 'flipped-classroom'
         gitbook_mobi: true
         gitbook_mobi_name: 'flipped-classroom'
+        
