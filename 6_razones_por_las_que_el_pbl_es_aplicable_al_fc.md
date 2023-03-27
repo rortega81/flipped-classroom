@@ -19,8 +19,6 @@ Por otra parte, estos seis elementos esenciales del PBL son las **seis razone
 5.  **La voz del estudiante y la elección**: Los estudiantes aprenden a trabajar de forma independiente y asumir responsabilidades cuando se les pide que tomen decisiones. La oportunidad de tomar decisiones y expresar su aprendizaje con su propia voz, también ayuda a aumentar el compromiso educativo de los alumnos.
 6.  **Revisión y reflexión**. Los estudiantes aprenden a dar y recibir información con el fin de mejorar la calidad de los productos o materiales que crean, y es conveniente pedirles continuamente que piensen acerca de qué y cómo están aprendiendo.
 
-
-![pbl](http://www.theflippedclassroom.es/wp-content/uploads/2013/12/PBL.jpg)
-
+![pbl](https://user-images.githubusercontent.com/16664187/228075010-8b6746d2-ab2f-4d08-adfd-d44bb3f1d36a.jpg)
 
 Fuente de la imagen: [Blog The Flipped Classroom](http://www.theflippedclassroom.es/un-grafico-sobre-aprendizaje-basado-en-proyectos/)
