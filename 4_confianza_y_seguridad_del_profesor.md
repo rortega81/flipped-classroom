@@ -1,8 +1,6 @@
 # 4\. Confianza y seguridad del profesor
 
-
-![](http://www.theflippedclassroom.es/wp-content/uploads/2015/01/confidence.001.jpg)
-
+![confidence](https://user-images.githubusercontent.com/16664187/228067234-7833de05-e289-468b-85df-8f2bcd5a936e.jpg)
 
 Fuente de la imagen [Blog The Flipped Classroom](http://www.theflippedclassroom.es/)
 
