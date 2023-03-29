@@ -23,15 +23,12 @@ En resumen, _la innovación educativa_ que supone este modelo aporta como prin
 *   **Involucra a las familias** desde el inicio del proceso de aprendizaje.
 
 
-![what is the flipped classroom](http://www.theflippedclassroom.es/wp-content/uploads/2013/06/flipped2-300x151.jpg "la innovación educativa")
-
+![flipped2](https://user-images.githubusercontent.com/16664187/228589863-2124abf9-82e5-4e7d-acc3-ad9b5e850836.jpg)
 
 Fuente de la imagen: [Flipped Approach](http://derekbruff.org/?p=3088) [Blog de Derek Bruff](http://derekbruff.org/)
 
 # Cómo el Flipped Learning está cambiando las escuelas y las universidades
 
-
-![change](http://www.theflippedclassroom.es/wp-content/uploads/2015/08/flipped-change.001.jpg)
-
+![flipped-change 001](https://user-images.githubusercontent.com/16664187/228590311-b14a4d5f-c034-4d6e-9a17-ca68d2dd26b0.jpg)
 
 Fuente de la imagen Blog [The flipped classroom](http://www.theflippedclassroom.es/como-el-flipped-learning-esta-cambiando-las-escuelas-y-las-universidades/) a través de [Emantras](http://emantras.com/)
