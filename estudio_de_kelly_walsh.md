@@ -46,8 +46,7 @@ Como se ha indicado, las calificaciones mejoraron en los dos ofrendas piloto.
 Se realizó un análisis similar comparando los resultados del curso piloto a los resultados en las ofertas anteriores del curso impartido específicamente por el mismo instructor que enseña el curso piloto. Los resultados fueron similares para el curso GEN300 impartido por A. Ferreira. Para el curso NET125 impartido por C. Nwosisi, los grados en el curso piloto fueron ligeramente más bajos que la de grado medio en el mismo curso, cuando el Dr. Nwosisi enseñó que en el transcurso de 2012 a 2013 (Dr. Nwosisi señaló que las leyes promedio en los cursos que se ofrecen por la noche fueron sistemáticamente inferiores a los de nuestros cursos que se ofrecen día y que ello ha contribuido a estos resultados).
 
 
-[![CW-FlippedClassPilot-QuantitativeResults-DFW-Rates](http://www.theflippedclassroom.es/wp-content/uploads/2014/09/CW-FlippedClassPilot-QuantitativeResults-DFW-Rates.png)](http://www.theflippedclassroom.es/wp-content/uploads/2014/09/CW-FlippedClassPilot-QuantitativeResults-DFW-Rates.png)
-
+![CW-FlippedClassPilot-QuantitativeResults-DFW-Rates](https://user-images.githubusercontent.com/16664187/228599334-bb00c475-0a00-4830-abfb-8f163dad8638.png)
 
 Fuente de la imagen: [Emergingedtech](http://www.emergingedtech.com/2014/08/flipped-learning-pilot-reduces-dfw-grade-rates/)
 
@@ -58,8 +57,7 @@ El resultado más sorprendente y beneficioso del piloto parcial de Flipped Class
 Como el gráfico a continuación indica, grados DFW fueron eliminados en el piloto de GEN300, y radicalmente reducidas en NET125. Resultados similares se produjeron en la comparación de las ofertas anteriores del curso impartido específicamente por el mismo instructor que enseña el curso piloto.
 
 
-_![CW-FlippedClassPilot-QuantitativeResults-AvgGrades](http://www.theflippedclassroom.es/wp-content/uploads/2014/09/CW-FlippedClassPilot-QuantitativeResults-AvgGrades.png)_
-
+![CW-FlippedClassPilot-QuantitativeResults-AvgGrades](https://user-images.githubusercontent.com/16664187/228599475-dd386e65-9628-4a54-853c-c46df0c7613c.png)
 
 Fuente de la imagen: [Emergingedtech](http://www.emergingedtech.com/2014/08/flipped-learning-pilot-reduces-dfw-grade-rates/)
 
